@@ -21,6 +21,12 @@ This application helps to create a platform whereby names of debtors of school f
 
 The target audience of this product is the owners, stakeholders, principal administrators of schools and parents/guidians of the students.
 
+## Project Deliverables
+
+- Design sketch
+- Low-fidelity prototype
+- High-fidelity prototype
+
 ## Project goals
 
 The following listed below are the project goals of this project:
@@ -77,4 +83,3 @@ b. a journey of accused individuals to open an account and challenge the claims 
 - Warning Sucess and InformatiON
 
 **Project scope and implementation plan;** this describes the roles and flow of each team member
-
