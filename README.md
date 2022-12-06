@@ -35,7 +35,6 @@ The following listed below are the project goals of this project:
 - For schools to have a database of debtors and a monitoring system.
 - To check parents/guardians who remove their wards from schools they're owing and put them in another.
 - To allow debtors to contend with proofs.
-
 ## Deliverables
 
 - Low fidelity wireframe
